@@ -1,0 +1,11 @@
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

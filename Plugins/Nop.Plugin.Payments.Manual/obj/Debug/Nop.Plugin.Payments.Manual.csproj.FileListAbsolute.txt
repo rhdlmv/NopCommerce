@@ -1,0 +1,11 @@
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\Configure.cshtml
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentManual\PaymentInfo.cshtml
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb
