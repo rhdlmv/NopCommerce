@@ -8,3 +8,13 @@ D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PayP
 D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

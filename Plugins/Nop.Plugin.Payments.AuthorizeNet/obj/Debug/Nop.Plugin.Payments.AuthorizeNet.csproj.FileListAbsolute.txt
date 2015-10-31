@@ -9,3 +9,14 @@ D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Payments.Auth
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\Configure.cshtml
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Views\PaymentAuthorizeNet\PaymentInfo.cshtml
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\web.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Description.txt
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\logo.jpg
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.AuthorizeNet\Nop.Plugin.Payments.AuthorizeNet.pdb
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.csprojResolveAssemblyReference.cache
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.dll
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.AuthorizeNet\obj\Debug\Nop.Plugin.Payments.AuthorizeNet.pdb

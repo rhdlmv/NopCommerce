@@ -8,3 +8,13 @@ D:\SourceTree\nopcommerce_3.60_source\Presentation\Nop.Web\Plugins\Shipping.UPS\
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
 D:\SourceTree\nopcommerce_3.60_source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\ShippingUPS\Configure.cshtml
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb
