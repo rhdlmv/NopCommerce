@@ -20,3 +20,14 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.F
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb
