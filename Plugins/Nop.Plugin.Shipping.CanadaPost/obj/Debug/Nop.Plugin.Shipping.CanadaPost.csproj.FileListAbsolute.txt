@@ -16,3 +16,4 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.P
 D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csprojResolveAssemblyReference.cache

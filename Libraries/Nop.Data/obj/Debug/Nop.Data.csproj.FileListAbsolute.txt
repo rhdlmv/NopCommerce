@@ -58,3 +58,4 @@ D:\SourceTree\NopCommerce\Libraries\Nop.Data\bin\Debug\System.Web.WebPages.Deplo
 D:\SourceTree\NopCommerce\Libraries\Nop.Data\obj\Debug\Nop.Data.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Libraries\Nop.Data\obj\Debug\Nop.Data.dll
 D:\SourceTree\NopCommerce\Libraries\Nop.Data\obj\Debug\Nop.Data.pdb
+C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Data\obj\Debug\Nop.Data.csprojResolveAssemblyReference.cache

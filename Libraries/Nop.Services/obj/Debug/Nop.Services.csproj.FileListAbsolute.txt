@@ -94,3 +94,4 @@ D:\SourceTree\NopCommerce\Libraries\Nop.Services\bin\Debug\EntityFramework.xml
 D:\SourceTree\NopCommerce\Libraries\Nop.Services\obj\Debug\Nop.Services.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Libraries\Nop.Services\obj\Debug\Nop.Services.dll
 D:\SourceTree\NopCommerce\Libraries\Nop.Services\obj\Debug\Nop.Services.pdb
+C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Services\obj\Debug\Nop.Services.csprojResolveAssemblyReference.cache

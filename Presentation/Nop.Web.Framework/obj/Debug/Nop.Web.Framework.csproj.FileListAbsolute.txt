@@ -148,3 +148,4 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web.Framework\bin\Debug\tr\FluentVali
 D:\SourceTree\NopCommerce\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.dll
 D:\SourceTree\NopCommerce\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.pdb
+C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web.Framework\obj\Debug\Nop.Web.Framework.csprojResolveAssemblyReference.cache

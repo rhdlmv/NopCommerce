@@ -18,3 +18,4 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.Fedex\Nop.Plugin
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.Fedex\obj\Debug\Nop.Plugin.Shipping.Fedex.csprojResolveAssemblyReference.cache

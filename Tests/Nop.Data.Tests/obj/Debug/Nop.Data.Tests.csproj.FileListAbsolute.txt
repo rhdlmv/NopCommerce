@@ -74,3 +74,4 @@ D:\SourceTree\NopCommerce\Tests\Nop.Data.Tests\bin\Debug\System.Web.WebPages.Dep
 D:\SourceTree\NopCommerce\Tests\Nop.Data.Tests\obj\Debug\Nop.Data.Tests.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Tests\Nop.Data.Tests\obj\Debug\Nop.Data.Tests.dll
 D:\SourceTree\NopCommerce\Tests\Nop.Data.Tests\obj\Debug\Nop.Data.Tests.pdb
+C:\Users\paul\Documents\NopCommerce\Tests\Nop.Data.Tests\obj\Debug\Nop.Data.Tests.csprojResolveAssemblyReference.cache

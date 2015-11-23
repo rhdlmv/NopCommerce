@@ -20,3 +20,4 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache

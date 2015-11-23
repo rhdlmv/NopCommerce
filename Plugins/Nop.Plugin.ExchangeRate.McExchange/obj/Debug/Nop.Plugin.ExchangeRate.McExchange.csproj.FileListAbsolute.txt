@@ -14,3 +14,4 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.McExchange\N
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.pdb
+C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.McExchange\obj\Debug\Nop.Plugin.ExchangeRate.McExchange.csprojResolveAssemblyReference.cache
