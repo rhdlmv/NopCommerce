@@ -66,3 +66,4 @@ C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Core\bin\Debug\System.Web.WebP
 C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Core\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.dll
 C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.pdb
+C:\Users\paul\Documents\NopCommerce\Libraries\Nop.Core\obj\Debug\Nop.Core.csprojResolveAssemblyReference.cache

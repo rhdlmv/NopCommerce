@@ -24,3 +24,4 @@ C:\Users\paul\Documents\NopCommerce\Tests\Nop.Tests\bin\Debug\nunit.framework.xm
 C:\Users\paul\Documents\NopCommerce\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
 C:\Users\paul\Documents\NopCommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
 C:\Users\paul\Documents\NopCommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb
+C:\Users\paul\Documents\NopCommerce\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojResolveAssemblyReference.cache
