@@ -105,6 +105,10 @@ namespace Nop.Admin.Models.Catalog
         public bool LimitedToStores { get; set; }
         [NopResourceDisplayName("Admin.Catalog.Categories.Fields.AvailableStores")]
         public List<StoreModel> AvailableStores { get; set; }
+
+        [NopResourceDisplayName("Admin.Catalog.Categories.Fields.SomeNewProperty")]
+        public string SomeNewProperty { get; set; }
+
         public int[] SelectedStoreIds { get; set; }
 
 

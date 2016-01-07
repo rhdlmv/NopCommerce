@@ -18,7 +18,6 @@ D:\SourceTree\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\No
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.dll
 D:\SourceTree\NopCommerce\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Debug\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\ShippingAustraliaPost\Configure.cshtml
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config

@@ -26,4 +26,3 @@ C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.H
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csprojResolveAssemblyReference.cache

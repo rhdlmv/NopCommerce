@@ -29,4 +29,3 @@ C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.H
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\DiscountRules.HasAllProducts\Nop.Plugin.DiscountRules.HasAllProducts.pdb
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.dll
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.DiscountRules.HasAllProducts\obj\Debug\Nop.Plugin.DiscountRules.HasAllProducts.csprojResolveAssemblyReference.cache

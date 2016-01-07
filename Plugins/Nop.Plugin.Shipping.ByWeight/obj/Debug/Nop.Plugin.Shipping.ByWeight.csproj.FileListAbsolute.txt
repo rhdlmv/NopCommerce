@@ -35,4 +35,3 @@ C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.ByWeig
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache

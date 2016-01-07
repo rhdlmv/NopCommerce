@@ -25,4 +25,3 @@ C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.USPS\N
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Shipping.USPS\Nop.Plugin.Shipping.USPS.pdb
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.dll
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Shipping.USPS\obj\Debug\Nop.Plugin.Shipping.USPS.csprojResolveAssemblyReference.cache

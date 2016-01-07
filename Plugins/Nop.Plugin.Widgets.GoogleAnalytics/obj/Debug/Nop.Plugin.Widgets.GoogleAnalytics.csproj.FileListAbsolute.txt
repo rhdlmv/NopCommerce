@@ -26,4 +26,3 @@ C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleA
 C:\Users\paul\Documents\NopCommerce\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
 C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb
-C:\Users\paul\Documents\NopCommerce\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache

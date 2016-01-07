@@ -137,5 +137,11 @@ namespace Nop.Core.Domain.Catalog
             get { return _appliedDiscounts ?? (_appliedDiscounts = new List<Discount>()); }
             protected set { _appliedDiscounts = value; }
         }
+
+        /// <summary>
+        /// By Paul
+        /// </summary>
+        public string SomeNewProperty { get; set; }    
+   
     }
 }
